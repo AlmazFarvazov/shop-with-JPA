@@ -2,8 +2,6 @@
 n
 >src/main/java/ru/itis/afarvazov/services/CustomersService.java,7\0\70a538f158c9c00f3b82330553d1f4c4891988b5
 `
-0src/main/java/ru/itis/afarvazov/models/Role.java,4\6\460503e4e66a8e2efda10dcea359bebf4aee1f91
-`
 0src/main/java/ru/itis/afarvazov/models/User.java,e\0\e03d892518aef78dd036e973b86c5f9c1a567d38
 q
 Asrc/main/java/ru/itis/afarvazov/repositories/CartsRepository.java,f\9\f96a1febeb611d89c9a9e74b39bd9b1d7d2e7361
@@ -25,20 +23,14 @@ c
 3src/main/java/ru/itis/afarvazov/dto/ProductDto.java,a\0\a0c0cc4a15763028a259d6246cd2144b383eae31
 f
 6src/main/java/ru/itis/afarvazov/dto/NewProductDto.java,b\6\b63b7d8e81b603c0f467e67959c8c8561b05ec73
-w
-Gsrc/main/java/ru/itis/afarvazov/controllers/ShopEmployeeController.java,c\6\c69306ff40de87c617abe2cd6d00b244d4fb6714
 v
 Fsrc/main/java/ru/itis/afarvazov/services/ShopEmployeesServiceImpl.java,9\7\977b7e296d38d23720af2f725afe57395137dd5d
-h
-8src/main/java/ru/itis/afarvazov/models/ShopEmployee.java,3\3\333b7912fee8faafbff132c03c3b9b3a5d825ebf
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 t
 Dsrc/main/java/ru/itis/afarvazov/repositories/ProductsRepository.java,3\2\32693931922ffb1d22c6a6ae7c10258a0a53d03f
 d
 4src/main/java/ru/itis/afarvazov/models/CartItem.java,3\f\3f15f092edbace57e45b009bbe7fffa0da9ec26c
-c
-3src/main/java/ru/itis/afarvazov/models/Product.java,9\8\98aba74d3b8585341f943f0a47240a6f61ac05ff
 `
 0src/main/java/ru/itis/afarvazov/models/Cart.java,e\d\ed4f95fd9abe3c1c217ebe5ea7ea361f967a3429
 d
@@ -63,8 +55,6 @@ e
 5src/main/java/ru/itis/afarvazov/StoreApplication.java,f\0\f0e988994204c2241cd33832c711c469ae9155ee
 d
 4src/main/java/ru/itis/afarvazov/dto/CartItemDto.java,7\3\73b461579cfc9610d6482c4636331ca31ba07090
-s
-Csrc/main/java/ru/itis/afarvazov/controllers/ProductsController.java,4\a\4ade73da5b43ec6fde33778cd065cb74b046bbda
 r
 Bsrc/main/java/ru/itis/afarvazov/services/CustomersServiceImpl.java,7\2\72ed86e8e615344a3ac9cf930d34fa64614dd6cf
 r
@@ -75,3 +65,5 @@ q
 Asrc/main/java/ru/itis/afarvazov/services/ProductsServiceImpl.java,3\2\3296607e845ce0709cfae022b63de270fb84c322
 s
 Csrc/main/java/ru/itis/afarvazov/security/config/SecurityConfig.java,5\e\5ea32e291830d4550d44781e90893a86ec6af921
+h
+8src/main/java/ru/itis/afarvazov/models/ShopEmployee.java,3\3\333b7912fee8faafbff132c03c3b9b3a5d825ebf
